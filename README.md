@@ -11,4 +11,3 @@ Operates as follows from command prompt:
 > polRoot [-newt, -sec, -hybrid] [-maxIt n] initP [initP2] polyFileName
 
 Examples in results.pdf file.
-- Has to be run in command prompt
